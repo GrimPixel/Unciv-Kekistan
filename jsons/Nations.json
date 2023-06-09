@@ -1,0 +1,18 @@
+[
+	{
+		"name": "Kekistan",
+		"adjective": ["Kekistani"],
+		"cityStateType": "Cultured",
+
+		"introduction": "We are just harmless neets",
+		"neutralHello": "I'm from Kekistan, praise keke",
+		"hateHello": "Stop being Kekophobic",
+		"declaringWar": "You may go to heaven and I will go to Kekistan.",
+		"attacked": "RRRREEEEEEEE",
+		"defeated": "We are a disparate and dispossessed people like Roma.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [198,255,192],
+		"favoredReligion": "Kekism",
+		"cities": ["Kekstantinopole"]
+	},
+]
